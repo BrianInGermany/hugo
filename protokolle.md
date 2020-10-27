@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Sitzungsprotokolle
+permalink: /sitzungsprotokolle/
 ---
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
